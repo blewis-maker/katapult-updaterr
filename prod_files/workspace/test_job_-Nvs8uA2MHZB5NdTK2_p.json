@@ -1,0 +1,1827 @@
+{
+  "connections": {
+    "-Nvs91jr872r4_z2awRO": {
+      "_created": {
+        "method": "desktop",
+        "timestamp": 1713560366072,
+        "uid": "sBIGRMMFIUYY9qaKgNlvAQIa61u2"
+      },
+      "attributes": {
+        "connection_type": {
+          "button_added": "aerial cable"
+        },
+        "tracing_complete": {
+          "auto": true
+        }
+      },
+      "button": "power_reference",
+      "node_id_1": "-Nvs91jr872r4_z2awRN",
+      "node_id_2": "-Nvs8vxMPT4SJakAXwbC",
+      "sections": {
+        "-NwFm77HXfXahWtis9Yg": {
+          "_created": {
+            "method": "mobile",
+            "timestamp": 1713973527068,
+            "uid": "gEDsokOqmCgaCyJIQz54T9pXNVf1"
+          },
+          "latitude": 39.06586684550594,
+          "longitude": -108.54781145346351,
+          "multi_attributes": {
+            "field_completed": {
+              "value": true
+            },
+            "time_bucket": {
+              "-NwFm77HXfXahWtis9Yf": {
+                "start": 1713972930025,
+                "stop": 1713973527068,
+                "uid": "gEDsokOqmCgaCyJIQz54T9pXNVf1"
+              }
+            }
+          },
+          "photos": {
+            "7ad19834-8a33-4d4d-b805-9f850d89a606": {
+              "association": "main"
+            }
+          }
+        }
+      }
+    }
+  },
+  "date_created": 1713560330995,
+  "geohash": {
+    "-Nvs91jr872r4_z2awRN": {
+      "c": "#f0f",
+      "g": "9wfy1ztx4s",
+      "i": "katapult-map:asterisk",
+      "is": [
+        {
+          "c": "#f0f",
+          "i": "katapult-map:asterisk",
+          "s": 11,
+          "u": "i36",
+          "z": 4
+        }
+      ],
+      "l": [
+        39.065860803409365,
+        -108.54824492830534
+      ],
+      "n": {
+        "-Nvs91jr872r4_z2awRO": 1
+      },
+      "s": 11,
+      "t": "n",
+      "u": "i36",
+      "z": 4
+    },
+    "-Nvs91jr872r4_z2awRO~1": {
+      "c": "#0f0",
+      "d": 180.1,
+      "g": "9wfy1ztx4s",
+      "is": [
+        {
+          "c": "#0f0",
+          "o": 0.7,
+          "p": "solid",
+          "u": "i0",
+          "w": 7,
+          "z": 16
+        }
+      ],
+      "l": [
+        39.065860803409365,
+        -108.54824492830534
+      ],
+      "l2": [
+        39.06586965414525,
+        -108.54760991532106
+      ],
+      "o": 0.7,
+      "p": "solid",
+      "t": "c",
+      "u": "i0",
+      "w": 7,
+      "z": 16
+    },
+    "-Nvs91jr872r4_z2awRO:-NwFm77HXfXahWtis9Yg": {
+      "c": "#0ff",
+      "g": "9wfy1ztzht",
+      "i": "katapult-map:triangle-up",
+      "l": [
+        39.06586684550594,
+        -108.54781145346351
+      ],
+      "m": 1,
+      "s": 18,
+      "t": "s",
+      "u": "ms",
+      "z": 1
+    },
+    "-Nvs8vxMPT4SJakAXwbC": {
+      "c": "#4caf50",
+      "g": "9wfy1zwp1m",
+      "i": "katapult-map:bullseye",
+      "is": [
+        {
+          "c": "#4caf50",
+          "i": "katapult-map:bullseye",
+          "m": 1,
+          "s": "16",
+          "u": "i44",
+          "z": 23
+        }
+      ],
+      "l": [
+        39.06586965414525,
+        -108.54760991532106
+      ],
+      "m": 1,
+      "n": {
+        "-Nvs91jr872r4_z2awRO": 2
+      },
+      "s": "16",
+      "t": "n",
+      "u": "i44",
+      "z": 23
+    },
+    "-Nvs91jr872r4_z2awRO~2": {
+      "c": "#0f0",
+      "d": 180.1,
+      "g": "9wfy1zwp1m",
+      "is": [
+        {
+          "c": "#0f0",
+          "o": 0.7,
+          "p": "solid",
+          "u": "i0",
+          "w": 7,
+          "z": 16
+        }
+      ],
+      "l": [
+        39.06586965414525,
+        -108.54760991532106
+      ],
+      "l2": [
+        39.065860803409365,
+        -108.54824492830534
+      ],
+      "o": 0.7,
+      "p": "solid",
+      "t": "c",
+      "u": "i0",
+      "w": 7,
+      "z": 16
+    }
+  },
+  "jobTagPhotos": {
+    "6000ca67-956e-4ce4-b197-37853693ff48": "-Nvs8uA2MHZB5NdTK2_p",
+    "bdaecd14-35a3-49a5-88e0-1807a8f4c80e": "-Nvs8uA2MHZB5NdTK2_p"
+  },
+  "job_creator": "deeply_digital_DMEA_SPIDACalc_+_integrated_pole_loading",
+  "job_owner": "deeply_digital",
+  "map_styles": {
+    "default": {
+      "_counter": 53,
+      "_default_published": true,
+      "_name": "Default",
+      "_note": "style arrays prioritize earlier items",
+      "connections": [
+        {
+          "attribute": "connection_type",
+          "color": "#0f0",
+          "comparator": "equals",
+          "id": "i0",
+          "pattern": "solid",
+          "value": "aerial cable",
+          "width": 7
+        },
+        {
+          "attribute": "connection_type",
+          "color": "#05f",
+          "comparator": "equals",
+          "id": "i1",
+          "pattern": "solid",
+          "value": "overlash",
+          "width": 7
+        },
+        {
+          "attribute": "connection_type",
+          "color": "#ff5722",
+          "comparator": "equals",
+          "id": "i2",
+          "pattern": "solid",
+          "value": "slack span",
+          "width": 7
+        },
+        {
+          "attribute": "connection_type",
+          "color": "#fa0",
+          "comparator": "equals",
+          "id": "i3",
+          "pattern": "solid",
+          "value": "overhead guy",
+          "width": 7
+        },
+        {
+          "attribute": "connection_type",
+          "color": "#050",
+          "comparator": "equals",
+          "id": "i4",
+          "pattern": "solid",
+          "value": "pole to pole guy",
+          "width": 7
+        },
+        {
+          "attribute": "connection_type",
+          "color": "#f00",
+          "comparator": "equals",
+          "id": "i5",
+          "pattern": "dashed",
+          "value": "underground cable",
+          "width": 7
+        },
+        {
+          "attribute": "connection_type",
+          "color": "#faf",
+          "comparator": "equals",
+          "id": "i7",
+          "pattern": "solid",
+          "value": "down guy",
+          "width": 7
+        },
+        {
+          "attribute": "connection_type",
+          "color": "#00f",
+          "comparator": "equals",
+          "id": "i8",
+          "pattern": "solid",
+          "value": "pushbrace",
+          "width": 7
+        },
+        {
+          "attribute": "connection_type",
+          "color": "#a0f",
+          "comparator": "equals",
+          "id": "i9",
+          "pattern": "solid",
+          "value": "misc",
+          "width": 7
+        },
+        {
+          "attribute": "connection_type",
+          "color": "#f00",
+          "comparator": "equals",
+          "id": "i10",
+          "pattern": "solid",
+          "value": "distribution fiber",
+          "width": 7
+        },
+        {
+          "attribute": "connection_type",
+          "color": "#00f",
+          "comparator": "equals",
+          "id": "i11",
+          "pattern": "solid",
+          "value": "access fiber",
+          "width": 7
+        },
+        {
+          "attribute": "connection_type",
+          "color": "#ff0",
+          "comparator": "equals",
+          "id": "i12",
+          "pattern": "solid",
+          "value": "strand only",
+          "width": 7
+        },
+        {
+          "attribute": "connection_type",
+          "color": "#508",
+          "comparator": "equals",
+          "id": "i13",
+          "pattern": "solid",
+          "value": "drop fiber",
+          "width": 2
+        },
+        {
+          "attribute": "reference_type",
+          "color": "rgba(136,0,136,1)",
+          "comparator": "equals",
+          "id": "i14",
+          "pattern": "solid",
+          "value": "power reference",
+          "width": 7
+        },
+        {
+          "attribute": "reference_type",
+          "color": "rgba(255,0,255,1)",
+          "comparator": "equals",
+          "id": "i51",
+          "pattern": "solid",
+          "value": "com reference",
+          "width": 7
+        },
+        {
+          "attribute": "reference_type",
+          "color": "rgba(255,170,255,1)",
+          "comparator": "equals",
+          "id": "i52",
+          "pattern": "solid",
+          "value": "guy reference",
+          "width": 7
+        }
+      ],
+      "nodes": [
+        {
+          "attribute": "verify_location_in_field",
+          "color": "rgba(255,0,0,1)",
+          "comparator": "equals",
+          "icon": "katapult-map:gps",
+          "id": "i49",
+          "size": "27",
+          "value": false
+        },
+        {
+          "attribute": "pickup_required",
+          "color": "#ff0000",
+          "comparator": "equals",
+          "icon": "maps:directions-car",
+          "id": "i45",
+          "size": "30",
+          "value": "field visit required"
+        },
+        {
+          "attribute": "pickup_required",
+          "color": "#0000ff",
+          "comparator": "equals",
+          "icon": "maps:directions-car",
+          "id": "i46",
+          "size": "30",
+          "value": "fielding complete"
+        },
+        {
+          "attribute": "node_type",
+          "color": "rgba(2,255,255,1)",
+          "comparator": "equals",
+          "icon": "katapult-map:circle",
+          "id": "i16",
+          "size": "14",
+          "value": "spatial note"
+        },
+        {
+          "attribute": "note_type",
+          "color": "#338833",
+          "comparator": "equals",
+          "icon": "katapult-map:circle",
+          "id": "i17",
+          "size": 12,
+          "value": "Address Point"
+        },
+        {
+          "attribute": "warning",
+          "color": "#f80",
+          "comparator": "has",
+          "icon": "katapult-map:circle",
+          "id": "i18",
+          "size": 16,
+          "value": "!null"
+        },
+        {
+          "attribute": "mr_state",
+          "color": "rgba(255,0,0,1)",
+          "comparator": "equals",
+          "icon": "icons:error",
+          "id": "i42",
+          "size": "22",
+          "value": "MR Unresolved"
+        },
+        {
+          "attribute": "mr_state",
+          "color": "#fff176",
+          "comparator": "equals",
+          "icon": "katapult-map:bullseye",
+          "id": "i43",
+          "size": "16",
+          "value": "MR Resolved"
+        },
+        {
+          "attribute": "mr_state",
+          "color": "#4caf50",
+          "comparator": "equals",
+          "icon": "katapult-map:bullseye",
+          "id": "i44",
+          "size": "16",
+          "value": "No MR"
+        },
+        {
+          "attribute": "flag_for_review",
+          "color": "#ff0",
+          "comparator": "equals",
+          "icon": "katapult-map:circle",
+          "id": "i19",
+          "size": 14,
+          "value": true
+        },
+        {
+          "attribute": "done",
+          "color": "#0f0",
+          "comparator": "equals",
+          "icon": "katapult-map:circle",
+          "id": "i20",
+          "size": 14,
+          "value": true
+        },
+        {
+          "attribute": "field_completed",
+          "color": "rgba(33,150,243,1)",
+          "comparator": "equals",
+          "icon": "katapult-map:hexagon",
+          "id": "i50",
+          "size": "17",
+          "value": true
+        },
+        {
+          "attribute": "done",
+          "color": "#f00",
+          "comparator": "equals",
+          "icon": "katapult-map:circle",
+          "id": "i21",
+          "size": 14,
+          "value": false
+        },
+        {
+          "attribute": "node_type",
+          "color": "#000",
+          "comparator": "equals",
+          "icon": "katapult-map:circle",
+          "id": "i22",
+          "size": 6,
+          "value": "pole"
+        },
+        {
+          "attribute": "node_type",
+          "color": "#f00",
+          "comparator": "equals",
+          "icon": "icons:report",
+          "id": "i23",
+          "size": 15,
+          "value": "obstacle"
+        },
+        {
+          "attribute": "node_type",
+          "color": "#2ff",
+          "comparator": "equals",
+          "icon": "image:crop-landscape",
+          "id": "i24",
+          "size": 20,
+          "value": "handhole"
+        },
+        {
+          "attribute": "node_type",
+          "color": "#6ff",
+          "comparator": "equals",
+          "icon": "icons:settings-input-svideo",
+          "id": "i25",
+          "size": 20,
+          "value": "manhole"
+        },
+        {
+          "attribute": "node_type",
+          "color": "#000",
+          "comparator": "equals",
+          "icon": "katapult-map:multiply",
+          "id": "i26",
+          "size": 8,
+          "value": "break point"
+        },
+        {
+          "attribute": "node_type",
+          "color": "#26c6da",
+          "comparator": "equals",
+          "icon": "katapult-map:bullseye",
+          "id": "i27",
+          "size": 17,
+          "value": "map note"
+        },
+        {
+          "attribute": "node_type",
+          "color": "magenta",
+          "comparator": "equals",
+          "icon": "katapult-map:circle-small",
+          "id": "i28",
+          "size": 9,
+          "value": "pushbrace"
+        },
+        {
+          "attribute": "node_type",
+          "color": "#faf",
+          "comparator": "equals",
+          "icon": "katapult-map:triangle-down",
+          "id": "i29",
+          "size": 16,
+          "value": "existing anchor"
+        },
+        {
+          "attribute": "node_type",
+          "color": "#8bc34a",
+          "comparator": "equals",
+          "icon": "katapult-map:triangle-down",
+          "id": "i30",
+          "size": 16,
+          "value": "new anchor"
+        },
+        {
+          "attribute": "node_type",
+          "color": "magenta",
+          "comparator": "equals",
+          "icon": "katapult-map:circle-small",
+          "id": "i31",
+          "size": 9,
+          "value": "doublewood pole"
+        },
+        {
+          "attribute": "node_type",
+          "color": "#f00",
+          "comparator": "equals",
+          "icon": "katapult-map:multiply",
+          "id": "i32",
+          "size": 14,
+          "value": "crossover"
+        },
+        {
+          "attribute": "node_type",
+          "color": "magenta",
+          "comparator": "equals",
+          "icon": "katapult-map:circle-small",
+          "id": "i33",
+          "size": 9,
+          "value": "midspan takeoff"
+        },
+        {
+          "attribute": "node_type",
+          "color": "magenta",
+          "comparator": "equals",
+          "icon": "katapult-map:circle-small",
+          "id": "i34",
+          "size": 9,
+          "value": "bridge attachment"
+        },
+        {
+          "attribute": "node_type",
+          "color": "magenta",
+          "comparator": "equals",
+          "icon": "katapult-map:circle-small",
+          "id": "i35",
+          "size": 9,
+          "value": "building attachment"
+        },
+        {
+          "attribute": "node_type",
+          "color": "#f0f",
+          "comparator": "equals",
+          "icon": "katapult-map:asterisk",
+          "id": "i36",
+          "size": 11,
+          "value": "reference"
+        },
+        {
+          "attribute": "node_type",
+          "color": "#0f0",
+          "comparator": "equals",
+          "icon": "icons:add-circle",
+          "id": "i37",
+          "size": 20,
+          "value": "slack loop"
+        },
+        {
+          "attribute": "node_type",
+          "color": "#0f0",
+          "comparator": "equals",
+          "icon": "icons:link",
+          "id": "i38",
+          "size": 20,
+          "value": "splice"
+        },
+        {
+          "attribute": "node_type",
+          "color": "#e53935",
+          "comparator": "equals",
+          "icon": "katapult-map:hexagon",
+          "id": "i39",
+          "size": "17",
+          "value": "No Access"
+        }
+      ],
+      "sections": [
+        {
+          "attribute": "warning",
+          "color": "#f80",
+          "comparator": "has",
+          "icon": "katapult-map:triangle-up",
+          "id": "i40",
+          "size": "24",
+          "value": "!null"
+        },
+        {
+          "attribute": "pickup_required",
+          "color": "#ff0000",
+          "comparator": "equals",
+          "icon": "maps:directions-car",
+          "id": "i47",
+          "size": "34",
+          "value": "field visit required"
+        },
+        {
+          "attribute": "pickup_required",
+          "color": "#0000ff",
+          "comparator": "equals",
+          "icon": "maps:directions-car",
+          "id": "i48",
+          "size": "34",
+          "value": "fielding complete"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "assigned_OSP": "Riley",
+    "conversation": "Riley to Populate",
+    "job_status": "Approved for Construction"
+  },
+  "name": "GJD1-3_Extras",
+  "nodes": {
+    "-Nvs8vxMPT4SJakAXwbC": {
+      "_created": {
+        "method": "desktop",
+        "timestamp": 1713560338263,
+        "uid": "sBIGRMMFIUYY9qaKgNlvAQIa61u2"
+      },
+      "attributes": {
+        "address": {
+          "button_added": "211 S 15th St, Grand Junction, CO 81501, USA"
+        },
+        "done": {
+          "button_added": true
+        },
+        "field_completed": {
+          "value": true
+        },
+        "internal_note": {
+          "button_added": ""
+        },
+        "mr_state": {
+          "auto_calced": "No MR"
+        },
+        "node_type": {
+          "button_added": "pole"
+        },
+        "pole_spec": {
+          "-NwtTsFR0FmHUFKSEj-4": "35-5 Southern Pine"
+        },
+        "pole_tag": {
+          "-NwtTnyzLsGYbJFDNBfx": {
+            "company": "Xcel Energy",
+            "owner": true,
+            "tagtext": "\t531287"
+          }
+        },
+        "scid": {
+          "auto_button": "001"
+        },
+        "time_bucket": {
+          "-NwFnEdHeCvEX23Q9arB": {
+            "start": 1713973527068,
+            "stop": 1713973819993,
+            "uid": "gEDsokOqmCgaCyJIQz54T9pXNVf1"
+          }
+        }
+      },
+      "button": "aerial",
+      "latitude": 39.06586965414525,
+      "longitude": -108.54760991532106,
+      "photos": {
+        "0f329bb6-76d7-48ae-9f51-5a607aec83be": {
+          "association": true
+        },
+        "1d31e3f9-6694-4cd1-9f9f-3e98c45a0f35": {
+          "association": true
+        },
+        "353ce45f-11a2-4882-ae73-58e0733b8b67": {
+          "association": true
+        },
+        "3dd4d703-f7c6-45f4-bf39-01a9567151c2": {
+          "association": "main"
+        },
+        "6400322a-5a64-48c8-b163-71acf3a50ceb": {
+          "association": true
+        },
+        "9dc28dae-30f9-4900-acd0-5d2044641d03": {
+          "association": true
+        },
+        "aacdbc88-1e5a-4064-b572-71457f365fc1": {
+          "association": true
+        },
+        "d388523d-17fe-4f76-b851-0c6f7fc21349": {
+          "association": true
+        },
+        "e18bdf5e-0b68-415e-9164-4a5d4b14e0b5": {
+          "association": true
+        }
+      }
+    },
+    "-Nvs91jr872r4_z2awRN": {
+      "_created": {
+        "method": "desktop",
+        "timestamp": 1713560366071,
+        "uid": "sBIGRMMFIUYY9qaKgNlvAQIa61u2"
+      },
+      "attributes": {
+        "internal_note": {
+          "button_added": ""
+        },
+        "node_type": {
+          "button_added": "reference"
+        },
+        "scid": {
+          "auto_button": "001.A"
+        }
+      },
+      "button": "power_reference",
+      "latitude": 39.065860803409365,
+      "longitude": -108.54824492830534
+    }
+  },
+  "photo_folders": {
+    "-NwIZhH30Eg3SbFs7Quo": {
+      "cameras": {
+        "-NwIZglN9qxw7DgEl3k-": {
+          "date_created": 1714020340903,
+          "last_upload": 1714020348004,
+          "numAssociated": 5,
+          "numPhotos": 6,
+          "numTagged": 6,
+          "numUploaded": 6
+        },
+        "-NwIZglPTq6vE2IYvdn5": {
+          "date_created": 1714020340903,
+          "last_upload": 1714020348832,
+          "numAssociated": 5,
+          "numPhotos": 6,
+          "numTagged": 6,
+          "numUploaded": 6
+        }
+      },
+      "date_created": 1714020340903,
+      "done": false,
+      "job_id": "-Nvs8uA2MHZB5NdTK2_p",
+      "last_upload": 1714020348832,
+      "numAssociated": 10,
+      "numPhotos": 12,
+      "numTagged": 12,
+      "numUploaded": 12,
+      "status": "Associating"
+    }
+  },
+  "photo_summary": {
+    "bdaecd14-35a3-49a5-88e0-1807a8f4c80e": {
+      "camera_id": "-NwIZglN9qxw7DgEl3k-",
+      "data": true,
+      "job": true,
+      "job_id": "-Nvs8uA2MHZB5NdTK2_p",
+      "name": "IMG_4924.JPG",
+      "sync": true
+    },
+    "7ad19834-8a33-4d4d-b805-9f850d89a606": {
+      "associated": true,
+      "camera_id": "-NwIZglN9qxw7DgEl3k-",
+      "data": true,
+      "height": true,
+      "name": "IMG_4925.JPG"
+    },
+    "9dc28dae-30f9-4900-acd0-5d2044641d03": {
+      "associated": true,
+      "camera_id": "-NwIZglN9qxw7DgEl3k-",
+      "data": true,
+      "name": "IMG_4926.JPG"
+    },
+    "3dd4d703-f7c6-45f4-bf39-01a9567151c2": {
+      "associated": true,
+      "camera_id": "-NwIZglN9qxw7DgEl3k-",
+      "data": true,
+      "height": true,
+      "name": "IMG_4927.JPG"
+    },
+    "e18bdf5e-0b68-415e-9164-4a5d4b14e0b5": {
+      "associated": true,
+      "camera_id": "-NwIZglN9qxw7DgEl3k-",
+      "data": true,
+      "name": "IMG_4928.JPG"
+    },
+    "aacdbc88-1e5a-4064-b572-71457f365fc1": {
+      "associated": true,
+      "camera_id": "-NwIZglN9qxw7DgEl3k-",
+      "data": true,
+      "name": "IMG_4929.JPG"
+    },
+    "6000ca67-956e-4ce4-b197-37853693ff48": {
+      "camera_id": "-NwIZglPTq6vE2IYvdn5",
+      "data": true,
+      "job": true,
+      "job_id": "-Nvs8uA2MHZB5NdTK2_p",
+      "name": "sync.JPG",
+      "sync": true
+    },
+    "0f329bb6-76d7-48ae-9f51-5a607aec83be": {
+      "associated": true,
+      "camera_id": "-NwIZglPTq6vE2IYvdn5",
+      "data": true,
+      "name": "RIMG1394.JPG"
+    },
+    "6400322a-5a64-48c8-b163-71acf3a50ceb": {
+      "associated": true,
+      "camera_id": "-NwIZglPTq6vE2IYvdn5",
+      "data": true,
+      "name": "RIMG1395.JPG"
+    },
+    "1d31e3f9-6694-4cd1-9f9f-3e98c45a0f35": {
+      "associated": true,
+      "camera_id": "-NwIZglPTq6vE2IYvdn5",
+      "data": true,
+      "name": "RIMG1396.JPG"
+    },
+    "353ce45f-11a2-4882-ae73-58e0733b8b67": {
+      "associated": true,
+      "camera_id": "-NwIZglPTq6vE2IYvdn5",
+      "data": true,
+      "name": "RIMG1397.JPG"
+    },
+    "d388523d-17fe-4f76-b851-0c6f7fc21349": {
+      "associated": true,
+      "camera_id": "-NwIZglPTq6vE2IYvdn5",
+      "data": true,
+      "name": "RIMG1398.JPG"
+    }
+  },
+  "photos": {
+    "bdaecd14-35a3-49a5-88e0-1807a8f4c80e": {
+      "camera_id": "-NwIZglN9qxw7DgEl3k-",
+      "camera_make": "Canon",
+      "camera_model": "Canon EOS M50m2",
+      "camera_serial_number": "292054005681",
+      "date_taken": 1713973241,
+      "f_number": 4,
+      "filename": "IMG_4924.JPG",
+      "focal_length": 18,
+      "folder_id": "-NwIZhH30Eg3SbFs7Quo",
+      "image_height": 4000,
+      "image_width": 6000,
+      "iso": 100,
+      "lens": "EF-M18-150mm f/3.5-6.3 IS STM",
+      "name_date": "IMG_4924.JPG|1713973241",
+      "orientation": 1,
+      "original_size": 6957903,
+      "photofirst_data": {
+        "job": {
+          "upload_added": {
+            "jobname": "-Nvs8uA2MHZB5NdTK2_p"
+          }
+        },
+        "sync": {
+          "upload_added": {
+            "time": "2024:04:24:09:40:42",
+            "timezone": -6,
+            "user": "gEDsokOqmCgaCyJIQz54T9pXNVf1"
+          }
+        }
+      },
+      "shutter_speed": 0.0125,
+      "status": "upload_complete",
+      "synced_time": 1713973242518,
+      "upload_date": 1714020340990,
+      "uploaded_by": "gEDsokOqmCgaCyJIQz54T9pXNVf1",
+      "vignetting_correction": "13900",
+      "vignetting_correction_2": "40,0,1,0,0,1,1,1,1,1"
+    },
+    "7ad19834-8a33-4d4d-b805-9f850d89a606": {
+      "associated_locations": {
+        "-Nvs91jr872r4_z2awRO:-NwFm77HXfXahWtis9Yg": "section"
+      },
+      "camera_id": "-NwIZglN9qxw7DgEl3k-",
+      "camera_make": "Canon",
+      "camera_model": "Canon EOS M50m2",
+      "camera_serial_number": "292054005681",
+      "date_taken": 1713973496,
+      "f_number": 7.1,
+      "filename": "IMG_4925.JPG",
+      "focal_length": 22,
+      "folder_id": "-NwIZhH30Eg3SbFs7Quo",
+      "image_height": 6000,
+      "image_width": 4000,
+      "iso": 100,
+      "lens": "EF-M18-150mm f/3.5-6.3 IS STM",
+      "name_date": "IMG_4925.JPG|1713973496",
+      "orientation": 8,
+      "original_size": 7867323,
+      "photofirst_data": {
+        "_editors": {
+          "V7Ey625xkfgvcIqA11Sn6dtNpPD2": 1714656137878
+        },
+        "anchor_calibration": {
+          "-NwtT5WpHIvNNTUy2RVa": {
+            "_routine_instance_id": "-NwtT46q3SbFs7QumqgO",
+            "_score": 0.9999009550880139,
+            "height": 16.5,
+            "pixel_selection": [
+              {
+                "percentX": 49.885709093460335,
+                "percentY": 34.51619167178656
+              }
+            ]
+          },
+          "-NwtT5x5UGoyiRK22pEr": {
+            "_routine_instance_id": "-NwtT46q3SbFs7QumqgO",
+            "_score": 0.9998788062921823,
+            "height": 14.5,
+            "pixel_selection": [
+              {
+                "percentX": 49.7391652164471,
+                "percentY": 40.377946752316035
+              }
+            ]
+          },
+          "-NwtT6KWh1m3d2G0zIVm": {
+            "_routine_instance_id": "-NwtT46q3SbFs7QumqgO",
+            "_score": 0.9999427809042839,
+            "height": 10.5,
+            "pixel_selection": [
+              {
+                "percentX": 49.42979480941916,
+                "percentY": 52.513950789412235
+              }
+            ]
+          },
+          "-NwtT6j3kZhLuCBl21-J": {
+            "_routine_instance_id": "-NwtT46q3SbFs7QumqgO",
+            "_score": 0.9998681480978355,
+            "height": 6.5,
+            "pixel_selection": [
+              {
+                "percentX": 49.12042440239121,
+                "percentY": 65.20356502855844
+              }
+            ]
+          },
+          "-NwtT76PFX9DWBjwTw2K": {
+            "_routine_instance_id": "-NwtT46q3SbFs7QumqgO",
+            "_score": 0.9999475164283133,
+            "height": 2.5,
+            "pixel_selection": [
+              {
+                "percentX": 48.92503256637356,
+                "percentY": 78.45764457175561
+              }
+            ]
+          }
+        },
+        "midspanHeight": {
+          "-NwtT46gOaGSk0KJIOPY": {
+            "over": "Driveway"
+          }
+        },
+        "wire": {
+          "-NwtU84VlAj-t9PauY-s": {
+            "_exists": true,
+            "_measured_height": 229.71,
+            "_trace": "-NwtU1yWG-N1CY3tQvIN",
+            "diameter": "",
+            "pixel_selection": [
+              {
+                "percentX": 49.8235294117647,
+                "percentY": 26.941176470588236
+              }
+            ],
+            "wire_spec": "1/0 ACSR Triplex (6/1)"
+          },
+          "-NwtUA2iFOGjLKemOc7B": {
+            "_measured_height": 199.71,
+            "_trace": "-NwtUA2iFOGjLKemOc79",
+            "diameter": "",
+            "pixel_selection": [
+              {
+                "percentX": 49.89477574853943,
+                "percentY": 34.09780892028344
+              }
+            ],
+            "wire_spec": "96ct AFL (7/0)"
+          }
+        }
+      },
+      "shutter_speed": 0.004,
+      "status": "upload_complete",
+      "stick_align": {
+        "A": -0.005586547821850408,
+        "B": 29.18377655116001,
+        "C": 3.265748806020505e-05,
+        "aD": 0,
+        "bD": 0,
+        "cD": 0,
+        "dD": 1,
+        "error": 0.9995531848075778,
+        "errorMessages": [
+          {
+            "type": "AnchorScore",
+            "value": {
+              "anchorFit": 5.248357168674892e-05,
+              "x": 1957.0013026549423,
+              "y": 4707.458674305336
+            }
+          },
+          {
+            "type": "AnchorScore",
+            "value": {
+              "anchorFit": 0.0001318519021644704,
+              "x": 1964.8169760956484,
+              "y": 3912.213901713507
+            }
+          },
+          {
+            "type": "AnchorScore",
+            "value": {
+              "anchorFit": 5.7219095716088866e-05,
+              "x": 1977.1917923767664,
+              "y": 3150.8370473647337
+            }
+          },
+          {
+            "type": "AnchorScore",
+            "value": {
+              "anchorFit": 0.0001211937078176623,
+              "x": 1989.566608657884,
+              "y": 2422.676805138962
+            }
+          },
+          {
+            "type": "AnchorScore",
+            "value": {
+              "anchorFit": 9.904491198613407e-05,
+              "x": 1995.4283637384133,
+              "y": 2070.9715003071933
+            }
+          },
+          {
+            "type": "PassedNormalized",
+            "value": 0.9995531848075778
+          },
+          {
+            "type": "Perspective",
+            "value": 0.03032072427504245
+          }
+        ],
+        "height": 6000,
+        "otherAligns": [
+          {
+            "A": -0.005598515929356285,
+            "B": 29.263665886025876,
+            "C": 3.416562003889464e-05,
+            "aD": 0,
+            "bD": 0,
+            "cD": 0,
+            "dD": 1,
+            "error": 1.1277847208643305e-06,
+            "height": 6000,
+            "stickBottomX": 1995.4283637384133,
+            "stickBottomY": 2071.864502057743,
+            "stickTopX": 2025.3347271139623,
+            "stickTopY": 0,
+            "width": 4000
+          },
+          {
+            "A": -0.005598515929356285,
+            "B": 29.263665886025876,
+            "C": 3.416562003889464e-05,
+            "aD": 0,
+            "bD": 0,
+            "cD": 0,
+            "dD": 1,
+            "error": 1.1277847208643305e-06,
+            "height": 6000,
+            "stickBottomX": 1995.4283637384133,
+            "stickBottomY": 2071.864502057743,
+            "stickTopX": 2025.3347271139623,
+            "stickTopY": 0,
+            "width": 4000
+          },
+          {
+            "A": -0.0055746629993164674,
+            "B": 29.104425407616986,
+            "C": 3.115935772743145e-05,
+            "aD": 0,
+            "bD": 0,
+            "cD": 0,
+            "dD": 1,
+            "error": 8.704922998225059e-07,
+            "height": 6000,
+            "stickBottomX": 1995.4283637384133,
+            "stickBottomY": 2070.078498556644,
+            "stickTopX": 2025.3611718345355,
+            "stickTopY": 0,
+            "width": 4000
+          },
+          {
+            "A": -0.0055746629993164674,
+            "B": 29.104425407616986,
+            "C": 3.115935772743145e-05,
+            "aD": 0,
+            "bD": 0,
+            "cD": 0,
+            "dD": 1,
+            "error": 8.704922998225059e-07,
+            "height": 6000,
+            "stickBottomX": 1995.4283637384133,
+            "stickBottomY": 2070.078498556644,
+            "stickTopX": 2025.3611718345355,
+            "stickTopY": 0,
+            "width": 4000
+          }
+        ],
+        "stickBottomX": 1995.4283637384133,
+        "stickBottomY": 2070.9715003071933,
+        "stickTopX": 2025.3479914867216,
+        "stickTopY": 0,
+        "type": "flat",
+        "width": 4000
+      },
+      "synced_time": 1713973497518,
+      "upload_date": 1714020340993,
+      "uploaded_by": "gEDsokOqmCgaCyJIQz54T9pXNVf1",
+      "vignetting_correction": "13900",
+      "vignetting_correction_2": "40,0,1,0,0,1,1,1,1,1"
+    },
+    "9dc28dae-30f9-4900-acd0-5d2044641d03": {
+      "associated_locations": {
+        "-Nvs8vxMPT4SJakAXwbC": "node"
+      },
+      "camera_id": "-NwIZglN9qxw7DgEl3k-",
+      "camera_make": "Canon",
+      "camera_model": "Canon EOS M50m2",
+      "camera_serial_number": "292054005681",
+      "date_taken": 1713973558,
+      "f_number": 9,
+      "filename": "IMG_4926.JPG",
+      "focal_length": 70,
+      "folder_id": "-NwIZhH30Eg3SbFs7Quo",
+      "image_height": 4000,
+      "image_width": 6000,
+      "iso": 100,
+      "lens": "EF-M18-150mm f/3.5-6.3 IS STM",
+      "name_date": "IMG_4926.JPG|1713973558",
+      "orientation": 1,
+      "original_size": 5740548,
+      "photofirst_data": {
+        "_editors": {
+          "V7Ey625xkfgvcIqA11Sn6dtNpPD2": 1714656155748
+        },
+        "miscellaneous": {
+          "-NwtT8VxwE9YzAQsd46K": true
+        }
+      },
+      "shutter_speed": 0.004,
+      "status": "upload_complete",
+      "synced_time": 1713973559518,
+      "upload_date": 1714020340995,
+      "uploaded_by": "gEDsokOqmCgaCyJIQz54T9pXNVf1",
+      "vignetting_correction": "13900",
+      "vignetting_correction_2": "40,0,1,0,0,1,1,1,1,1"
+    },
+    "3dd4d703-f7c6-45f4-bf39-01a9567151c2": {
+      "associated_locations": {
+        "-Nvs8vxMPT4SJakAXwbC": "node"
+      },
+      "camera_id": "-NwIZglN9qxw7DgEl3k-",
+      "camera_make": "Canon",
+      "camera_model": "Canon EOS M50m2",
+      "camera_serial_number": "292054005681",
+      "date_taken": 1713973562,
+      "f_number": 7.1,
+      "filename": "IMG_4927.JPG",
+      "focal_length": 26,
+      "folder_id": "-NwIZhH30Eg3SbFs7Quo",
+      "image_height": 6000,
+      "image_width": 4000,
+      "iso": 100,
+      "lens": "EF-M18-150mm f/3.5-6.3 IS STM",
+      "name_date": "IMG_4927.JPG|1713973562",
+      "orientation": 8,
+      "original_size": 11472237,
+      "photofirst_data": {
+        "_editors": {
+          "V7Ey625xkfgvcIqA11Sn6dtNpPD2": 1714656158243
+        },
+        "anchor_calibration": {
+          "-NwtT9wADfNrv1yC1f9c": {
+            "_routine_instance_id": "-NwtT96xxdLELrEg4kZi",
+            "_score": 0.9998635231658579,
+            "height": 16.5,
+            "pixel_selection": [
+              {
+                "percentX": 43.680002170863105,
+                "percentY": 37.12518904528624
+              }
+            ]
+          },
+          "-NwtTAO2vNNTUy2RV_vn": {
+            "_routine_instance_id": "-NwtT96xxdLELrEg4kZi",
+            "_score": 0.9997226767709068,
+            "height": 14.5,
+            "pixel_selection": [
+              {
+                "percentX": 44.056581369591896,
+                "percentY": 43.50193014376024
+              }
+            ]
+          },
+          "-NwtTAsQoyiRK22pEqE-": {
+            "_routine_instance_id": "-NwtT96xxdLELrEg4kZi",
+            "_score": 0.9997604060950602,
+            "height": 10.5,
+            "pixel_selection": [
+              {
+                "percentX": 44.92271352666808,
+                "percentY": 56.71986001914041
+              }
+            ]
+          },
+          "-NwtTBX95kOts7pIzph2": {
+            "_routine_instance_id": "-NwtT96xxdLELrEg4kZi",
+            "_score": 0.9998759584020995,
+            "height": 6.5,
+            "pixel_selection": [
+              {
+                "percentX": 45.63821400425277,
+                "percentY": 70.43989549282563
+              }
+            ]
+          },
+          "-NwtTC-phLuCBl21-IaZ": {
+            "_routine_instance_id": "-NwtT96xxdLELrEg4kZi",
+            "_score": 0.9999747047386452,
+            "height": 2.5,
+            "pixel_selection": [
+              {
+                "percentX": 46.259569682155245,
+                "percentY": 84.77501032443452
+              }
+            ]
+          }
+        },
+        "insulator": {
+          "-NwtU38Nt9blGK9knSzB": {
+            "_children": {
+              "wire": {
+                "-NwtU1yWG-N1CY3tQvIL": {
+                  "_exists": true,
+                  "_trace": "-NwtU1yWG-N1CY3tQvIN"
+                }
+              }
+            },
+            "_measured_height": 283.2,
+            "_routine_instance_id": "-NwtU1yVFzw-fpkjtLXz",
+            "insulator_spec": "3\" Clevis Insulator",
+            "pixel_selection": [
+              {
+                "percentX": 42.43002601811553,
+                "percentY": 15.39286627577659
+              }
+            ]
+          }
+        },
+        "poleHeight": {
+          "-NwtT96vkOts7pIzph1n": true
+        },
+        "pole_top": {
+          "-NwtTClq9DWBjwTw2JGw": {
+            "_measured_height": 289.35,
+            "_routine_instance_id": "-NwtT96xxdLELrEg4kZi",
+            "pixel_selection": [
+              {
+                "percentX": 43.705249887291885,
+                "percentY": 13.883251435014104
+              }
+            ],
+            "pole_top_extension": false
+          }
+        },
+        "wire": {
+          "-NwtUA2nIWup3N6T1KZW": {
+            "_measured_height": 243.2,
+            "_trace": "-NwtUA2iFOGjLKemOc79",
+            "pixel_selection": [
+              {
+                "percentX": 43.0560311950905,
+                "percentY": 25.405602515440318
+              }
+            ]
+          }
+        }
+      },
+      "shutter_speed": 0.005,
+      "status": "upload_complete",
+      "stick_align": {
+        "A": -0.005129122926558908,
+        "B": 28.9411451935781,
+        "C": 2.7707413821496355e-05,
+        "aD": 0,
+        "bD": 0,
+        "cD": 0,
+        "dD": 1,
+        "error": 0.9997870397486529,
+        "errorMessages": [
+          {
+            "type": "AnchorScore",
+            "value": {
+              "anchorFit": 2.529526135470144e-05,
+              "x": 1850.38278728621,
+              "y": 5086.500619466071
+            }
+          },
+          {
+            "type": "AnchorScore",
+            "value": {
+              "anchorFit": 0.00012404159790050417,
+              "x": 1825.5285601701107,
+              "y": 4226.393729569538
+            }
+          },
+          {
+            "type": "AnchorScore",
+            "value": {
+              "anchorFit": 0.0002395939049397789,
+              "x": 1796.9085410667235,
+              "y": 3403.1916011484245
+            }
+          },
+          {
+            "type": "AnchorScore",
+            "value": {
+              "anchorFit": 0.00027732322909320334,
+              "x": 1762.2632547836758,
+              "y": 2610.1158086256146
+            }
+          },
+          {
+            "type": "AnchorScore",
+            "value": {
+              "anchorFit": 0.00013647683414211886,
+              "x": 1747.2000868345242,
+              "y": 2227.5113427171746
+            }
+          },
+          {
+            "type": "PassedNormalized",
+            "value": 0.9997870397486529
+          },
+          {
+            "type": "Perspective",
+            "value": 0.028606188311189856
+          }
+        ],
+        "height": 6000,
+        "otherAligns": [
+          {
+            "A": -0.00513983023055959,
+            "B": 29.01871501081218,
+            "C": 2.9073058032523134e-05,
+            "aD": 0,
+            "bD": 0,
+            "cD": 0,
+            "dD": 1,
+            "error": 1.8204960740821985e-07,
+            "height": 6000,
+            "stickBottomX": 1747.2000868345242,
+            "stickBottomY": 2228.482799368895,
+            "stickTopX": 1668.1682663315974,
+            "stickTopY": 0,
+            "width": 4000
+          },
+          {
+            "A": -0.00513983023055959,
+            "B": 29.01871501081218,
+            "C": 2.9073058032523134e-05,
+            "aD": 0,
+            "bD": 0,
+            "cD": 0,
+            "dD": 1,
+            "error": 1.8204960740821985e-07,
+            "height": 6000,
+            "stickBottomX": 1747.2000868345242,
+            "stickBottomY": 2228.482799368895,
+            "stickTopX": 1668.1682663315974,
+            "stickTopY": 0,
+            "width": 4000
+          },
+          {
+            "A": -0.005118488789525411,
+            "B": 28.864087876725762,
+            "C": 2.6350648674375136e-05,
+            "aD": 0,
+            "bD": 0,
+            "cD": 0,
+            "dD": 1,
+            "error": 2.7986371117430973e-07,
+            "height": 6000,
+            "stickBottomX": 1747.2000868345242,
+            "stickBottomY": 2226.539886065454,
+            "stickTopX": 1668.10340982225,
+            "stickTopY": 0,
+            "width": 4000
+          },
+          {
+            "A": -0.005118488789525411,
+            "B": 28.864087876725762,
+            "C": 2.6350648674375136e-05,
+            "aD": 0,
+            "bD": 0,
+            "cD": 0,
+            "dD": 1,
+            "error": 2.7986371117430973e-07,
+            "height": 6000,
+            "stickBottomX": 1747.2000868345242,
+            "stickBottomY": 2226.539886065454,
+            "stickTopX": 1668.10340982225,
+            "stickTopY": 0,
+            "width": 4000
+          }
+        ],
+        "stickBottomX": 1747.2000868345242,
+        "stickBottomY": 2227.5113427171746,
+        "stickTopX": 1668.135726072867,
+        "stickTopY": 0,
+        "type": "flat",
+        "width": 4000
+      },
+      "synced_time": 1713973563518,
+      "upload_date": 1714020340997,
+      "uploaded_by": "gEDsokOqmCgaCyJIQz54T9pXNVf1",
+      "vignetting_correction": "13900",
+      "vignetting_correction_2": "40,0,1,0,0,1,1,1,1,1"
+    },
+    "e18bdf5e-0b68-415e-9164-4a5d4b14e0b5": {
+      "associated_locations": {
+        "-Nvs8vxMPT4SJakAXwbC": "node"
+      },
+      "camera_id": "-NwIZglN9qxw7DgEl3k-",
+      "camera_make": "Canon",
+      "camera_model": "Canon EOS M50m2",
+      "camera_serial_number": "292054005681",
+      "date_taken": 1713973569,
+      "f_number": 8,
+      "filename": "IMG_4928.JPG",
+      "focal_length": 18,
+      "folder_id": "-NwIZhH30Eg3SbFs7Quo",
+      "image_height": 4000,
+      "image_width": 6000,
+      "iso": 100,
+      "lens": "EF-M18-150mm f/3.5-6.3 IS STM",
+      "name_date": "IMG_4928.JPG|1713973569",
+      "orientation": 1,
+      "original_size": 9078469,
+      "photofirst_data": {
+        "_editors": {
+          "V7Ey625xkfgvcIqA11Sn6dtNpPD2": 1714656181903
+        },
+        "side": {
+          "-NwtTEtUYTHOhW7c4nwE": true
+        }
+      },
+      "shutter_speed": 0.003125,
+      "status": "upload_complete",
+      "synced_time": 1713973570518,
+      "upload_date": 1714020340999,
+      "uploaded_by": "gEDsokOqmCgaCyJIQz54T9pXNVf1",
+      "vignetting_correction": "13900",
+      "vignetting_correction_2": "40,0,1,0,0,1,1,1,1,1"
+    },
+    "aacdbc88-1e5a-4064-b572-71457f365fc1": {
+      "associated_locations": {
+        "-Nvs8vxMPT4SJakAXwbC": "node"
+      },
+      "camera_id": "-NwIZglN9qxw7DgEl3k-",
+      "camera_make": "Canon",
+      "camera_model": "Canon EOS M50m2",
+      "camera_serial_number": "292054005681",
+      "date_taken": 1713973578,
+      "f_number": 9,
+      "filename": "IMG_4929.JPG",
+      "focal_length": 40,
+      "folder_id": "-NwIZhH30Eg3SbFs7Quo",
+      "image_height": 4000,
+      "image_width": 6000,
+      "iso": 100,
+      "lens": "EF-M18-150mm f/3.5-6.3 IS STM",
+      "name_date": "IMG_4929.JPG|1713973578",
+      "orientation": 1,
+      "original_size": 6571405,
+      "photofirst_data": {
+        "_editors": {
+          "V7Ey625xkfgvcIqA11Sn6dtNpPD2": 1714656185660
+        },
+        "hallway": {
+          "-NwtTFoC3d2G0zIVm5wD": true
+        }
+      },
+      "shutter_speed": 0.004,
+      "status": "upload_complete",
+      "synced_time": 1713973579518,
+      "upload_date": 1714020341001,
+      "uploaded_by": "gEDsokOqmCgaCyJIQz54T9pXNVf1",
+      "vignetting_correction": "13900",
+      "vignetting_correction_2": "40,0,1,0,0,1,1,1,1,1"
+    },
+    "6000ca67-956e-4ce4-b197-37853693ff48": {
+      "camera_id": "-NwIZglPTq6vE2IYvdn5",
+      "camera_make": "RICOH IMAGING COMPANY, LTD.",
+      "camera_model": "RICOH WG-80",
+      "date_taken": 1713969650,
+      "f_number": 4.2,
+      "filename": "sync.JPG",
+      "focal_length": 5,
+      "focal_length_35mm": 28,
+      "folder_id": "-NwIZhH30Eg3SbFs7Quo",
+      "image_height": 2592,
+      "image_software": "RICOH WG-80 Ver. 1.00",
+      "image_width": 4608,
+      "iso": 250,
+      "name_date": "sync.JPG|1713969650",
+      "orientation": 1,
+      "original_size": 2206140,
+      "photofirst_data": {
+        "job": {
+          "upload_added": {
+            "jobname": "-Nvs8uA2MHZB5NdTK2_p"
+          }
+        },
+        "sync": {
+          "upload_added": {
+            "time": "2024:04:24:09:39:01",
+            "timezone": -6,
+            "user": "gEDsokOqmCgaCyJIQz54T9pXNVf1"
+          }
+        }
+      },
+      "shutter_speed": 0.005,
+      "status": "upload_complete",
+      "synced_time": 1713973141519,
+      "upload_date": 1714020341004,
+      "uploaded_by": "gEDsokOqmCgaCyJIQz54T9pXNVf1"
+    },
+    "0f329bb6-76d7-48ae-9f51-5a607aec83be": {
+      "associated_locations": {
+        "-Nvs8vxMPT4SJakAXwbC": "node"
+      },
+      "camera_id": "-NwIZglPTq6vE2IYvdn5",
+      "camera_make": "RICOH IMAGING COMPANY, LTD.",
+      "camera_model": "RICOH WG-80",
+      "date_taken": 1713970236,
+      "f_number": 4.2,
+      "filename": "RIMG1394.JPG",
+      "focal_length": 5,
+      "focal_length_35mm": 28,
+      "folder_id": "-NwIZhH30Eg3SbFs7Quo",
+      "image_height": 2592,
+      "image_software": "RICOH WG-80 Ver. 1.00",
+      "image_width": 4608,
+      "iso": 125,
+      "name_date": "RIMG1394.JPG|1713970236",
+      "orientation": 1,
+      "original_size": 2204210,
+      "photofirst_data": {
+        "_editors": {
+          "V7Ey625xkfgvcIqA11Sn6dtNpPD2": 1714656189515
+        },
+        "groundline_circumference": {
+          "-NwtTGkXSlrPJWZFAxSB": {
+            "inches": "27"
+          }
+        }
+      },
+      "shutter_speed": 0.008,
+      "status": "upload_complete",
+      "synced_time": 1713973727519,
+      "upload_date": 1714020341006,
+      "uploaded_by": "gEDsokOqmCgaCyJIQz54T9pXNVf1"
+    },
+    "6400322a-5a64-48c8-b163-71acf3a50ceb": {
+      "associated_locations": {
+        "-Nvs8vxMPT4SJakAXwbC": "node"
+      },
+      "camera_id": "-NwIZglPTq6vE2IYvdn5",
+      "camera_make": "RICOH IMAGING COMPANY, LTD.",
+      "camera_model": "RICOH WG-80",
+      "date_taken": 1713970262,
+      "f_number": 4.2,
+      "filename": "RIMG1395.JPG",
+      "focal_length": 5,
+      "focal_length_35mm": 28,
+      "folder_id": "-NwIZhH30Eg3SbFs7Quo",
+      "image_height": 2592,
+      "image_software": "RICOH WG-80 Ver. 1.00",
+      "image_width": 4608,
+      "iso": 250,
+      "name_date": "RIMG1395.JPG|1713970262",
+      "orientation": 1,
+      "original_size": 2196360,
+      "photofirst_data": {
+        "_editors": {
+          "V7Ey625xkfgvcIqA11Sn6dtNpPD2": 1714656205333
+        },
+        "birthmark": {
+          "-NwtTKZQEg4kZhLuCBl3": {
+            "class": "5",
+            "height": "35",
+            "species": "SP"
+          }
+        }
+      },
+      "shutter_speed": 0.002,
+      "status": "upload_complete",
+      "synced_time": 1713973753519,
+      "upload_date": 1714020345463,
+      "uploaded_by": "gEDsokOqmCgaCyJIQz54T9pXNVf1"
+    },
+    "1d31e3f9-6694-4cd1-9f9f-3e98c45a0f35": {
+      "associated_locations": {
+        "-Nvs8vxMPT4SJakAXwbC": "node"
+      },
+      "camera_id": "-NwIZglPTq6vE2IYvdn5",
+      "camera_make": "RICOH IMAGING COMPANY, LTD.",
+      "camera_model": "RICOH WG-80",
+      "date_taken": 1713970267,
+      "f_number": 4.2,
+      "filename": "RIMG1396.JPG",
+      "focal_length": 5,
+      "focal_length_35mm": 28,
+      "folder_id": "-NwIZhH30Eg3SbFs7Quo",
+      "image_height": 2592,
+      "image_software": "RICOH WG-80 Ver. 1.00",
+      "image_width": 4608,
+      "iso": 250,
+      "name_date": "RIMG1396.JPG|1713970267",
+      "orientation": 1,
+      "original_size": 2232090,
+      "photofirst_data": {
+        "_editors": {
+          "V7Ey625xkfgvcIqA11Sn6dtNpPD2": 1714656232486
+        },
+        "birthmark": {
+          "-NwtTRAvgGAXZxwmku7V": {
+            "class": "5",
+            "height": "35",
+            "species": "SP"
+          }
+        }
+      },
+      "shutter_speed": 0.0015625,
+      "status": "upload_complete",
+      "synced_time": 1713973758519,
+      "upload_date": 1714020345510,
+      "uploaded_by": "gEDsokOqmCgaCyJIQz54T9pXNVf1"
+    },
+    "353ce45f-11a2-4882-ae73-58e0733b8b67": {
+      "associated_locations": {
+        "-Nvs8vxMPT4SJakAXwbC": "node"
+      },
+      "camera_id": "-NwIZglPTq6vE2IYvdn5",
+      "camera_make": "RICOH IMAGING COMPANY, LTD.",
+      "camera_model": "RICOH WG-80",
+      "date_taken": 1713970278,
+      "f_number": 4.2,
+      "filename": "RIMG1397.JPG",
+      "focal_length": 5,
+      "focal_length_35mm": 28,
+      "folder_id": "-NwIZhH30Eg3SbFs7Quo",
+      "image_height": 2592,
+      "image_software": "RICOH WG-80 Ver. 1.00",
+      "image_width": 4608,
+      "iso": 125,
+      "name_date": "RIMG1397.JPG|1713970278",
+      "orientation": 1,
+      "original_size": 2087779,
+      "photofirst_data": {
+        "_editors": {
+          "V7Ey625xkfgvcIqA11Sn6dtNpPD2": 1714656243476
+        },
+        "upshot": {
+          "-NwtTTtSYse3s1tngGAY": true
+        }
+      },
+      "shutter_speed": 0.002,
+      "status": "upload_complete",
+      "synced_time": 1713973769519,
+      "upload_date": 1714020345796,
+      "uploaded_by": "gEDsokOqmCgaCyJIQz54T9pXNVf1"
+    },
+    "d388523d-17fe-4f76-b851-0c6f7fc21349": {
+      "associated_locations": {
+        "-Nvs8vxMPT4SJakAXwbC": "node"
+      },
+      "camera_id": "-NwIZglPTq6vE2IYvdn5",
+      "camera_make": "RICOH IMAGING COMPANY, LTD.",
+      "camera_model": "RICOH WG-80",
+      "date_taken": 1713970290,
+      "f_number": 4.2,
+      "filename": "RIMG1398.JPG",
+      "focal_length": 5,
+      "focal_length_35mm": 28,
+      "folder_id": "-NwIZhH30Eg3SbFs7Quo",
+      "image_height": 2592,
+      "image_software": "RICOH WG-80 Ver. 1.00",
+      "image_width": 4608,
+      "iso": 125,
+      "name_date": "RIMG1398.JPG|1713970290",
+      "orientation": 1,
+      "original_size": 2210656,
+      "photofirst_data": {
+        "_editors": {
+          "V7Ey625xkfgvcIqA11Sn6dtNpPD2": 1714656251956
+        },
+        "tag": {
+          "-NwtTVzlts7pIzph1m3e": {
+            "tagtext": "NT"
+          }
+        }
+      },
+      "shutter_speed": 0.0025,
+      "status": "upload_complete",
+      "synced_time": 1713973781519,
+      "upload_date": 1714020345837,
+      "uploaded_by": "gEDsokOqmCgaCyJIQz54T9pXNVf1"
+    }
+  },
+  "project_folder": "deeply_digital",
+  "sharing": {
+    "deeply_digital": "write",
+    "deeply_digital_DMEA_SPIDACalc_+_integrated_pole_loading": "write"
+  },
+  "traces": {
+    "trace_data": {
+      "-NwtTyQ0FmHUFKSEj-3W": {
+        "_trace_type": "cable",
+        "cable_type": "Primary",
+        "company": "",
+        "label": ""
+      },
+      "-NwtTyQ1gMPLFNs0aYw1": {
+        "_trace_type": "cable",
+        "cable_type": "Primary",
+        "company": "",
+        "label": ""
+      },
+      "-NwtU1yVFzw-fpkjtLY2": {
+        "_trace_type": "cable",
+        "cable_type": "Primary",
+        "company": "",
+        "label": ""
+      },
+      "-NwtU1yWG-N1CY3tQvIN": {
+        "_trace_type": "cable",
+        "cable_type": "Secondary",
+        "company": "Xcel Energy",
+        "label": ""
+      },
+      "-NwtUA2iFOGjLKemOc79": {
+        "_trace_type": "cable",
+        "cable_type": "Fiber Optic Com",
+        "company": "Clearnetworx",
+        "label": "",
+        "proposed": true
+      }
+    },
+    "trace_items": {
+      "-NwtU1yWG-N1CY3tQvIN": {
+        "3dd4d703-f7c6-45f4-bf39-01a9567151c2": {
+          "insulator": {
+            "-NwtU38Nt9blGK9knSzB:_children:wire:-NwtU1yWG-N1CY3tQvIL": true
+          }
+        },
+        "7ad19834-8a33-4d4d-b805-9f850d89a606": {
+          "wire": {
+            "-NwtU84VlAj-t9PauY-s": true
+          }
+        }
+      },
+      "-NwtUA2iFOGjLKemOc79": {
+        "3dd4d703-f7c6-45f4-bf39-01a9567151c2": {
+          "wire": {
+            "-NwtUA2nIWup3N6T1KZW": true
+          }
+        },
+        "7ad19834-8a33-4d4d-b805-9f850d89a606": {
+          "wire": {
+            "-NwtUA2iFOGjLKemOc7B": true
+          }
+        }
+      }
+    }
+  }
+}

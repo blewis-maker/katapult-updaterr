@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\lewis\PycharmProjects\reverse_engineer_API\main.py", line 5, in <module>
+    from arcgis.gis import GIS
+ModuleNotFoundError: No module named 'arcgis'

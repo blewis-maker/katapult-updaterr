@@ -1,0 +1,5 @@
+numpy==1.21.6
+pandas==1.5.3
+keyring==21.8.0
+geopandas==0.12.0
+arcgis==2.2.0 

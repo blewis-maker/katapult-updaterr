@@ -1,0 +1,7 @@
+# Run at 12:00 PM (Noon) MST
+0 12 * * * root cd /app && python3 main.py >> /app/logs/cron.log 2>&1
+
+# Run at 8:00 PM MST
+0 20 * * * root cd /app && python3 main.py >> /app/logs/cron.log 2>&1
+
+# Empty line at end of file is required 
