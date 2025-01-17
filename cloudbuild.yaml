@@ -1,0 +1,33 @@
+steps:
+# Build the container image
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/$PROJECT_ID/katapult-updater', '.']
+
+# Push the container image to Container Registry
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/$PROJECT_ID/katapult-updater']
+
+# Deploy container image to Cloud Run
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  entrypoint: gcloud
+  args:
+  - 'run'
+  - 'deploy'
+  - 'katapult-updater'
+  - '--image'
+  - 'gcr.io/$PROJECT_ID/katapult-updater'
+  - '--region'
+  - 'us-central1'
+  - '--platform'
+  - 'managed'
+  - '--memory'
+  - '1Gi'
+  - '--timeout'
+  - '3600'
+  - '--set-secrets'
+  - 'ARCGIS_USERNAME=arcgis-username:latest,ARCGIS_PASSWORD=arcgis-password:latest,AZURE_CLIENT_ID=azure-client-id:latest,AZURE_CLIENT_SECRET=azure-client-secret:latest,AZURE_TENANT_ID=azure-tenant-id:latest,KATAPULT_API_KEY=katapult-api-key:latest,EMAIL_USER=email-user:latest,EMAIL_PASSWORD=email-password:latest'
+  - '--set-env-vars'
+  - 'ARCGIS_URL=https://gis.clearnetworx.com/server/rest/services/Hosted/Katapult_Master_API/FeatureServer'
+
+images:
+- 'gcr.io/$PROJECT_ID/katapult-updater' 
